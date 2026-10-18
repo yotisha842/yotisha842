@@ -10,27 +10,9 @@
 
 | Место | Хакатон | Проект |
 |---|---|---|
-| 🥇 1 место | Т-Образование × СНО «from VMK» | [t-emka](https://github.com/yotisha842/t-emka) — личный трекер финансов (Java, REST API) |
-| 🥉 3 место | СберОбразование × Школа 21 «ИИ для образования» | [VariantUm](https://github.com/yotisha842/VariantUm) — ИИ-генератор школьных вариантов |
-| 🥉 3 место | «Креаторы и кодеры» · Universal University × Школа 21 | [ZotovNavigator](https://github.com/yotisha842/ZotovNavigator) — 3D-навигация центра «Зотов» |
-
-## 🛠 Навыки
-
-| | |
-|---|---|
-| **Язык** | Java 17/21, SQL |
-| **Spring** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security (JWT) |
-| **API** | REST API, OpenAPI / Swagger, Postman |
-| **Базы данных** | PostgreSQL, Hibernate / JPA, Flyway, Redis |
-| **Брокеры** | Apache Kafka |
-| **Инфраструктура** | Docker, docker-compose, Linux |
-| **Тестирование** | JUnit 5 |
-| **Сборка и VCS** | Maven, Gradle, Git, GitHub |
-| **Архитектура** | микросервисы, REST API design, ООП, SOLID, паттерны проектирования |
-| **Многопоточность** | java.util.concurrent, потокобезопасность |
-| **Алгоритмы и структуры данных** | деревья, графы, HashMap, сортировки, бинарный поиск, рекурсия, BFS / DFS, динамическое программирование |
-| **Процессы** | Agile / Scrum, Notion, code review |
-| **ИИ-инструменты** | Claude, ИИ-агенты, интеграция LLM (GigaChat API) |
+| 1 место | Т-Образование × СНО «from VMK» | [t-emka](https://github.com/yotisha842/t-emka) — личный трекер финансов (Java, REST API) |
+| 3 место | СберОбразование × Школа 21 «ИИ для образования» | [VariantUm](https://github.com/yotisha842/VariantUm) — ИИ-генератор школьных вариантов |
+| 3 место | «Креаторы и кодеры» · Universal University × Школа 21 | [ZotovNavigator](https://github.com/yotisha842/ZotovNavigator) — 3D-навигация центра «Зотов» |
 
 ## 📌 Проекты
 
@@ -42,12 +24,3 @@
 | [TicTacToe](https://github.com/yotisha842/TicTacToe) | REST API игры с ИИ-противником на Minimax: параллельные игровые сессии, многослойная архитектура, ручной DI/IoC | Java 18, Spring MVC, Gradle |
 | [RoguelikeGame](https://github.com/yotisha842/RoguelikeGame) | Консольный roguelike: процедурная генерация уровней, пошаговый бой и AI противников, сохранение/загрузка состояния | Java 21, JSON, MVC |
 | [chat-server-client](https://github.com/yotisha842/chat-server-client) | Клиент-серверный чат: сетевое взаимодействие через сокеты, одновременная работа нескольких пользователей в реальном времени | Java, Sockets, Multithreading |
-
-## 🎓 Образование
-
-**КФУ** · 2024–2028 — бакалавр, информационные системы и технологии
-**Школа 21 от Сбера** · с 2025 — образовательный проект от Сбера
-
-## 📫 Контакты
-
-Telegram [@yotishaa](https://t.me/yotishaa) (предпочтительный способ связи) · pozdeik@gmail.com
